@@ -2,12 +2,14 @@
 
 Yurei is a command-line tool written in Rust that visualizes binary files. It provides a textual representation of the binary data, making it easier to understand the structure and content of files.
 
-## Features
+## Todo
 
-* **Hexadecimal Representation:** Displays the binary data in hexadecimal format.
-* **ASCII Interpretation:** Attempts to interpret and display printable ASCII characters alongside the hexadecimal representation.
-* **Offset Display:** Shows the file offset for each line of data.
-* **Customizable Output:** Options to control the number of bytes displayed per line.
+- **Hexadecimal Representation:** Displays the binary data in hexadecimal format.
+- **ASCII Interpretation:** Attempts to interpret and display printable ASCII characters alongside the hexadecimal representation.
+- **Offset Display:** Shows the file offset for each line of data.
+- **Customizable Output:** Options to control the number of bytes displayed per line.
+
+## Features 
 * **Cross-Platform:** Built with Rust, ensuring compatibility across various operating systems.
 
 ## Installation
